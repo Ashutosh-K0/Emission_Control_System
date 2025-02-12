@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1, U2",2," Quad AND gate"
+"U4",1," Quad OR gate"
+"D1",1,"Red LED"
+"D2",1,"Yellow LED"
+"D3",1,"Green LED"
+"R1, R2, R3",3,"100 Ω Resistor"
+"U9",1," 5V Regulator [LM7805]"
+"BAT1",1," 9V Battery"
+"S1, S2, S3, S4, S5, S6, S7, S8, S9",9," Slideswitch"
+"R4, R5, R6, R7, R8, R9, R10, R11, R13",9,"10 kΩ Resistor"
