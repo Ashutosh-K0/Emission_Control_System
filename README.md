@@ -62,17 +62,6 @@ The system classifies emissions into three levels:
 2. Observe the **LED output** to determine emission classification.
 3. Adjust inputs to test different conditions.
 
-## Repository Structure
-```
-Carbon_Emission_Monitor/
-│── README.md          # Project documentation
-│── circuit_diagram.jpg # Logic circuit diagram
-│── emission_logic.txt  # Breakdown of logic gates
-│── implementation.v   # Verilog implementation (if applicable)
-│── LICENSE            # Open-source license (if applicable)
-│── .gitignore         # Ignore unnecessary files
-```
-
 ## Future Enhancements
 - Implementing **microcontroller-based** logic instead of discrete gates.
 - Adding a **real-time sensor** input for accurate monitoring.
